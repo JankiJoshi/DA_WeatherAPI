@@ -1,0 +1,7 @@
+C:\Users\skim7663\Desktop\WeatherAPI\WeatherAPI\TemperatorConvertService\bin\TemperatorConvertService.dll.config
+C:\Users\skim7663\Desktop\WeatherAPI\WeatherAPI\TemperatorConvertService\bin\TemperatorConvertService.dll
+C:\Users\skim7663\Desktop\WeatherAPI\WeatherAPI\TemperatorConvertService\bin\TemperatorConvertService.pdb
+C:\Users\skim7663\Desktop\WeatherAPI\WeatherAPI\TemperatorConvertService\obj\Debug\TemperatorConvertService.csprojAssemblyReference.cache
+C:\Users\skim7663\Desktop\WeatherAPI\WeatherAPI\TemperatorConvertService\obj\Debug\TemperatorConvertService.csproj.CoreCompileInputs.cache
+C:\Users\skim7663\Desktop\WeatherAPI\WeatherAPI\TemperatorConvertService\obj\Debug\TemperatorConvertService.dll
+C:\Users\skim7663\Desktop\WeatherAPI\WeatherAPI\TemperatorConvertService\obj\Debug\TemperatorConvertService.pdb
